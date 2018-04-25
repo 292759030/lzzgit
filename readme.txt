@@ -6,4 +6,4 @@ Git tracks changes of files.
 
 git mkdir new dev
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.
